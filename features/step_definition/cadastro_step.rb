@@ -63,4 +63,4 @@ Dado('que acesso a página de cadastro') do
   Então('vejo a mensagem de alerta: Oops. Informe sua senha secreta!') do
     alert = find(".alert-dark")
     expect(alert.text).to eql "Oops. Informe sua senha secreta!"
-  end
+  end 

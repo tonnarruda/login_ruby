@@ -1,5 +1,7 @@
 #language: pt
 
+#Ajustar pra melhorar o codigo
+
 Funcionalidade: Cadastro 
     Sendo um músico que possui equipamentos musicais
     Quero fazer o meu cadastro no RockLov
